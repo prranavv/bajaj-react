@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bajaj-react/static/css/main.e6c13ad2.css",
+    "main.js": "/bajaj-react/static/js/main.66f7a19e.js",
+    "static/js/453.25380b15.chunk.js": "/bajaj-react/static/js/453.25380b15.chunk.js",
+    "index.html": "/bajaj-react/index.html",
+    "main.e6c13ad2.css.map": "/bajaj-react/static/css/main.e6c13ad2.css.map",
+    "main.66f7a19e.js.map": "/bajaj-react/static/js/main.66f7a19e.js.map",
+    "453.25380b15.chunk.js.map": "/bajaj-react/static/js/453.25380b15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.66f7a19e.js"
+  ]
+}
