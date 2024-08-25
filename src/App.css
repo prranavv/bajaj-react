@@ -1,5 +1,28 @@
 .App {
   text-align: center;
+  margin-top: 50px;
+}
+
+textarea {
+  width: 80%;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+button {
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+select {
+  margin-bottom: 20px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+h3 {
+  margin-top: 20px;
 }
 
 .App-logo {
